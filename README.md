@@ -158,7 +158,7 @@ attempt to log into Client-1 with one of the accounts (take note of the password
 <img src="https://i.imgur.com/Y7whqLD.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
-After creating a bunch of additional users. We are noe finished with the AD lab.
+We are now finished with the AD lab.
 
 </p>
 <br /> 
